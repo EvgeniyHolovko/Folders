@@ -1,0 +1,199 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<folder name = "Boot">
+<folder name = "DVD">
+<folder name = "EFI">
+<file name = "BCD" />
+<file name = "boot.sdi" />
+<folder name = "en-US">
+<file name = "efisys.bin" />
+</folder>
+</folder>
+<folder name = "PCAT">
+<file name = "BCD" />
+<file name = "boot.sdi" />
+<folder name = "en-US">
+<file name = "bootfix.bin" />
+</folder>
+<file name = "etfsboot.com" />
+</folder>
+</folder>
+<folder name = "EFI">
+<file name = "bootmgfw.efi" />
+<file name = "bootmgr.efi" />
+<folder name = "cs-CZ">
+<file name = "bootmgfw.efi.mui" />
+<file name = "bootmgr.efi.mui" />
+</folder>
+<folder name = "da-DK">
+<file name = "bootmgfw.efi.mui" />
+<file name = "bootmgr.efi.mui" />
+</folder>
+<folder name = "de-DE">
+<file name = "bootmgfw.efi.mui" />
+<file name = "bootmgr.efi.mui" />
+</folder>
+<folder name = "el-GR">
+<file name = "bootmgfw.efi.mui" />
+<file name = "bootmgr.efi.mui" />
+</folder>
+<folder name = "en-US">
+<file name = "bootmgfw.efi.mui" />
+<file name = "bootmgr.efi.mui" />
+<file name = "memtest.efi.mui" />
+</folder>
+<folder name = "es-ES">
+<file name = "bootmgfw.efi.mui" />
+<file name = "bootmgr.efi.mui" />
+</folder>
+<folder name = "fi-FI">
+<file name = "bootmgfw.efi.mui" />
+<file name = "bootmgr.efi.mui" />
+</folder>
+<folder name = "fr-FR">
+<file name = "bootmgfw.efi.mui" />
+<file name = "bootmgr.efi.mui" />
+</folder>
+<folder name = "hu-HU">
+<file name = "bootmgfw.efi.mui" />
+<file name = "bootmgr.efi.mui" />
+</folder>
+<folder name = "it-IT">
+<file name = "bootmgfw.efi.mui" />
+<file name = "bootmgr.efi.mui" />
+</folder>
+<folder name = "ja-JP">
+<file name = "bootmgfw.efi.mui" />
+<file name = "bootmgr.efi.mui" />
+</folder>
+<folder name = "ko-KR">
+<file name = "bootmgfw.efi.mui" />
+<file name = "bootmgr.efi.mui" />
+</folder>
+<file name = "memtest.efi" />
+<folder name = "nb-NO">
+<file name = "bootmgfw.efi.mui" />
+<file name = "bootmgr.efi.mui" />
+</folder>
+<folder name = "nl-NL">
+<file name = "bootmgfw.efi.mui" />
+<file name = "bootmgr.efi.mui" />
+</folder>
+<folder name = "pl-PL">
+<file name = "bootmgfw.efi.mui" />
+<file name = "bootmgr.efi.mui" />
+</folder>
+<folder name = "pt-BR">
+<file name = "bootmgfw.efi.mui" />
+<file name = "bootmgr.efi.mui" />
+</folder>
+<folder name = "pt-PT">
+<file name = "bootmgfw.efi.mui" />
+<file name = "bootmgr.efi.mui" />
+</folder>
+<folder name = "ru-RU">
+<file name = "bootmgfw.efi.mui" />
+<file name = "bootmgr.efi.mui" />
+</folder>
+<folder name = "sv-SE">
+<file name = "bootmgfw.efi.mui" />
+<file name = "bootmgr.efi.mui" />
+</folder>
+<folder name = "tr-TR">
+<file name = "bootmgfw.efi.mui" />
+<file name = "bootmgr.efi.mui" />
+</folder>
+<folder name = "zh-CN">
+<file name = "bootmgfw.efi.mui" />
+<file name = "bootmgr.efi.mui" />
+</folder>
+<folder name = "zh-HK">
+<file name = "bootmgfw.efi.mui" />
+<file name = "bootmgr.efi.mui" />
+</folder>
+<folder name = "zh-TW">
+<file name = "bootmgfw.efi.mui" />
+<file name = "bootmgr.efi.mui" />
+</folder>
+</folder>
+<folder name = "Fonts">
+<file name = "chs_boot.ttf" />
+<file name = "cht_boot.ttf" />
+<file name = "jpn_boot.ttf" />
+<file name = "kor_boot.ttf" />
+<file name = "wgl4_boot.ttf" />
+</folder>
+<folder name = "PCAT">
+<file name = "bootmgr" />
+<folder name = "cs-CZ">
+<file name = "bootmgr.exe.mui" />
+</folder>
+<folder name = "da-DK">
+<file name = "bootmgr.exe.mui" />
+</folder>
+<folder name = "de-DE">
+<file name = "bootmgr.exe.mui" />
+</folder>
+<folder name = "el-GR">
+<file name = "bootmgr.exe.mui" />
+</folder>
+<folder name = "en-US">
+<file name = "bootmgr.exe.mui" />
+<file name = "memtest.exe.mui" />
+</folder>
+<folder name = "es-ES">
+<file name = "bootmgr.exe.mui" />
+</folder>
+<folder name = "fi-FI">
+<file name = "bootmgr.exe.mui" />
+</folder>
+<folder name = "fr-FR">
+<file name = "bootmgr.exe.mui" />
+</folder>
+<folder name = "hu-HU">
+<file name = "bootmgr.exe.mui" />
+</folder>
+<folder name = "it-IT">
+<file name = "bootmgr.exe.mui" />
+</folder>
+<folder name = "ja-JP">
+<file name = "bootmgr.exe.mui" />
+</folder>
+<folder name = "ko-KR">
+<file name = "bootmgr.exe.mui" />
+</folder>
+<file name = "memtest.exe" />
+<folder name = "nb-NO">
+<file name = "bootmgr.exe.mui" />
+</folder>
+<folder name = "nl-NL">
+<file name = "bootmgr.exe.mui" />
+</folder>
+<folder name = "pl-PL">
+<file name = "bootmgr.exe.mui" />
+</folder>
+<folder name = "pt-BR">
+<file name = "bootmgr.exe.mui" />
+</folder>
+<folder name = "pt-PT">
+<file name = "bootmgr.exe.mui" />
+</folder>
+<folder name = "ru-RU">
+<file name = "bootmgr.exe.mui" />
+</folder>
+<folder name = "sv-SE">
+<file name = "bootmgr.exe.mui" />
+</folder>
+<folder name = "tr-TR">
+<file name = "bootmgr.exe.mui" />
+</folder>
+<folder name = "zh-CN">
+<file name = "bootmgr.exe.mui" />
+</folder>
+<folder name = "zh-HK">
+<file name = "bootmgr.exe.mui" />
+</folder>
+<folder name = "zh-TW">
+<file name = "bootmgr.exe.mui" />
+</folder>
+</folder>
+</folder>
